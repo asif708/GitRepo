@@ -1,12 +1,13 @@
-This is my First File...!!!
+/*This is my First File...!!!
 Welcome to Git..!!!
+*/
 
 class HelloGit{
 
-main(){
+	public static void main(String args[]){
 
-sysout("Hey hello git...!!!");
+		System.out.println("Hey hello git...!!!");
 
-}
+	}
 
 }
