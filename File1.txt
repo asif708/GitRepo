@@ -3,7 +3,7 @@ Welcome to Git..!!!
 
 class HelloGit{
 
-main(){
+public static void main(String arg[]){
 
 sysout("Hey hello git...!!!");
 
